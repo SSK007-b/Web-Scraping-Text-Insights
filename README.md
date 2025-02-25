@@ -12,9 +12,9 @@ This project performs **web scraping, text extraction, and NLP-based sentiment a
 ✔ **CSV Output Generation** – Saves structured data into `Output_Data.csv`.  
 
 ## 📂 Project Structure  
-┣ 📜 script.py # Python script for scraping & analysis
-┣ 📂 InputData # Folder containing URLs for scraping
-┣ 📂 OutputData # Generated output with sentiment & readability scores
+- ┣ 📜 script.py # Python script for scraping & analysis
+- ┣ 📂 InputData # Folder containing URLs for scraping
+- ┣ 📂 OutputData # Generated output with sentiment & readability scores
 
 
 ## 🔧 Installation & Setup  
